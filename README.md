@@ -43,4 +43,6 @@ Prof. Dr. Vasıf NABİYEV, "Yapay zeka: insan-bilgisayar etkileşimi". Seçkin Y
 Öğr. Gör. Ali Çetinkaya, "Mühendislik Alanında Yapay Zeka (YZ) İçerikli Araştırmalarda Yaklaşımlar", Serüven Yayınevi, İzmir, 2022.
 https://scholar.google.com.tr/citations?hl=tr&user=XSEW-NcAAAAJ  
 
-
+## Dersin Verildiği Dönem ve Bilgiler
+* 2024-2025 Bahar Dönemi -  EEM108 - İGÜ MMF Elektrik-Elektronik Mühendisliği Bölümü - (41 Öğrenci), Dersin internet sitesi: https://gbs.gelisim.edu.tr/ders-detay-3-141-10795-1
+* 2023-2024 Bahar Dönemi -  EEM108 - İGÜ MMF Elektrik-Elektronik Mühendisliği Bölümü - (37 Öğrenci), Dersin internet sitesi: https://gbs.gelisim.edu.tr/ders-detay-3-141-10795-1
