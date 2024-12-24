@@ -19,3 +19,4 @@ Amaç: MATLAB programlama dilini kullanarak elektrik-elektronik mühendisliği p
 Hafta - Elektrik-Elektronik Mühendisliği Programlama ( MATLAB ) Dersi, Temel Kavramları ve Dersin Haftalık İşleniş Aşamaları
 Hafta - MATLAB ile Uygulama Geliştirme Ortamının Hazırlanması, Algoritma, Akış Şeması ve Veri Bilimi Kavramları
 Hafta - MATLAB Temel İşlemcileri ve İşlemleri
+Hafta - MATLAB M-dosya yapısı & MATLAB Kontrol ve Döngü Yapıları (if, if-elseif-else-end, switch-case, while,for,try...catch)
