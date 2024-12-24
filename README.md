@@ -21,3 +21,4 @@ Hafta - MATLAB ile Uygulama Geliştirme Ortamının Hazırlanması, Algoritma, A
 Hafta - MATLAB Temel İşlemcileri ve İşlemleri
 Hafta - MATLAB M-dosya yapısı & MATLAB Kontrol ve Döngü Yapıları (if, if-elseif-else-end, switch-case, while,for,try...catch)
 Hafta - MATLAB Grafik İşlemleri (Çubuk, Pasta, 2D ve 3D grafik uygulamaları)
+Hafta - MATLAB Mühendislik Uygulamaları için Uygulamalı Bütünleşik Örnekler (if-else-end, switch–case, while, for, Bar graph, 2D Line, 3D Pie Chart, Veri Aktarımı)
