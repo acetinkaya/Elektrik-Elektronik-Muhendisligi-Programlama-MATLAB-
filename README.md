@@ -27,6 +27,7 @@ Hafta - MATLAB Dersi Vize Sınavı Haftası
 Hafta - MATLAB Uygulama Projesi Kontrol Haftası & MATLAB Simulink Modellenme Çalışması
 Hafta - MATLAB ile Mikrodenetleyici Haberleşmesi Uygulaması (Github 60. Uygulama->[DHT11 ve MQ2 Sensörleri])
 Hafta - MATLAB Dersi Quiz Uygulama Sınavı ve Yapay Zeka (YZ) 
+Hafta - MATLAB Bulanık Mantık (BM) ve Fuzzy Logic Toolbox Uygulaması
 
 
 
