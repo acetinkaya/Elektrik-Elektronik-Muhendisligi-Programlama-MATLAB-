@@ -38,10 +38,10 @@ Amaç: MATLAB programlama dilini kullanarak elektrik-elektronik mühendisliği p
 * Prof. Dr. Uğur ARİFOĞLU, "Matlab 9.8 ve Sayısal Uygulamaları". Alfa Basım Yayın, İstanbul, 2020.
 * Prof. Dr. İbrahim YÜKSEL, "Matlab ile Mühendislik Sistemlerinin Analizi ve Çözümü". Dora Basım - Yayın Dağıtım, Bursa, 2017.
 * Prof. Dr. İbrahim YÜKSEL, "Otomatik Kontrol - Sistem Dinemiği ve Denetimli Sistemler". Dora Basım - Yayın Dağıtım, Bursa, 2021.
-Prof. Dr. Vasıf NABİYEV, "Yapay zeka: insan-bilgisayar etkileşimi". Seçkin Yayınları, Ankara, 2021.
-Öğr. Gör. Ali Çetinkaya, "Bulanık Mantık ve Python Uygulamaları". İstanbul Gelişim Üniversitesi Yayınları, 2023.
-Öğr. Gör. Ali Çetinkaya, "Mühendislik Alanında Yapay Zeka (YZ) İçerikli Araştırmalarda Yaklaşımlar", Serüven Yayınevi, İzmir, 2022.
-https://scholar.google.com.tr/citations?hl=tr&user=XSEW-NcAAAAJ  
+* Prof. Dr. Vasıf NABİYEV, "Yapay zeka: insan-bilgisayar etkileşimi". Seçkin Yayınları, Ankara, 2021.
+* Öğr. Gör. Ali Çetinkaya, "Bulanık Mantık ve Python Uygulamaları". İstanbul Gelişim Üniversitesi Yayınları, 2023.
+* Öğr. Gör. Ali Çetinkaya, "Mühendislik Alanında Yapay Zeka (YZ) İçerikli Araştırmalarda Yaklaşımlar", Serüven Yayınevi, İzmir, 2022.
+* https://scholar.google.com.tr/citations?hl=tr&user=XSEW-NcAAAAJ  
 
 ## Dersin Verildiği Dönemler   
 * 2024-2025 Bahar Dönemi -  EEM108 - İGÜ MMF Elektrik-Elektronik Mühendisliği Bölümü - (41 Öğrenci), Dersin internet sitesi: https://gbs.gelisim.edu.tr/ders-detay-3-141-10795-1    
