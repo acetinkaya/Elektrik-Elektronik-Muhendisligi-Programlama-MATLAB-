@@ -12,4 +12,4 @@ Amaç: MATLAB programlama dilini kullanarak elektrik-elektronik mühendisliği p
 * Elektrik-Elektronik mühendisliği problemlerini matematiksel olarak modelleyebilme,
 * Kontrol sistemleri ve Yapay Zeka konularında uygulamalar geliştirebilme,
 * MATLAB komutlarını ve araçlarının kullanımının öğrenilerek deneysel sonuçlar oluşturabilme,
-Proje yönetimi ve sunum becerilerini geliştirmesi.
+* Proje yönetimi ve sunum becerilerini geliştirmesi.
