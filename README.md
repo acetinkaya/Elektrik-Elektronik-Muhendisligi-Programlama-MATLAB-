@@ -23,6 +23,7 @@ Hafta - MATLAB M-dosya yapısı & MATLAB Kontrol ve Döngü Yapıları (if, if-e
 Hafta - MATLAB Grafik İşlemleri (Çubuk, Pasta, 2D ve 3D grafik uygulamaları)
 Hafta - MATLAB Mühendislik Uygulamaları için Uygulamalı Bütünleşik Örnekler (if-else-end, switch–case, while, for, Bar graph, 2D Line, 3D Pie Chart, Veri Aktarımı)
 Hafta - MATLAB Simulink Ortamında Modellenme Çalışması
+Hafta - MATLAB Dersi Vize Sınavı Haftası
 
 
 
