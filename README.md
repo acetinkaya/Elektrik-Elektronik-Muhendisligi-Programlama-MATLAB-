@@ -1,1 +1,2 @@
-# Elektrik-Elektronik-Muhendisligi-Programlama-MATLAB-
+# MATLAB - Elektrik-Elektronik Mühendisliği Programlama
+
