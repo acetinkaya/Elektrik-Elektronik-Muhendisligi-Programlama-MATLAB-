@@ -24,8 +24,8 @@ Amaç: MATLAB programlama dilini kullanarak elektrik-elektronik mühendisliği p
 6. Hafta - MATLAB Mühendislik Uygulamaları için Uygulamalı Bütünleşik Örnekler (if-else-end, switch–case, while, for, Bar graph, 2D Line, 3D Pie Chart, Veri Aktarımı)
 7. Hafta - MATLAB Simulink Ortamında Modellenme Çalışması
 8. Hafta - MATLAB Dersi Vize Sınavı Haftası
-Hafta - MATLAB Uygulama Projesi Kontrol Haftası & MATLAB Simulink Modellenme Çalışması
-Hafta - MATLAB ile Mikrodenetleyici Haberleşmesi Uygulaması (Github 60. Uygulama->[DHT11 ve MQ2 Sensörleri])
+9. Hafta - MATLAB Uygulama Projesi Kontrol Haftası & MATLAB Simulink Modellenme Çalışması
+10. Hafta - MATLAB ile Mikrodenetleyici Haberleşmesi Uygulaması (Github 60. Uygulama->[DHT11 ve MQ2 Sensörleri])
 Hafta - MATLAB Dersi Quiz Uygulama Sınavı ve Yapay Zeka (YZ) 
 Hafta - MATLAB Bulanık Mantık (BM) ve Fuzzy Logic Toolbox Uygulaması
 Hafta - MATLAB Simulink üzerinde Bulanık Mantık Tabanlı Mikrodenetleyici Uygulaması (Github 60. Uygulama-> Gerçek Zamanlı Ortam Isı, Nem ve Gaz bilgileri ile [DHT11 ve MQ2 Sensörleri])
