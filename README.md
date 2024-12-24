@@ -29,8 +29,8 @@ Amaç: MATLAB programlama dilini kullanarak elektrik-elektronik mühendisliği p
 11. Hafta - MATLAB Dersi Quiz Uygulama Sınavı ve Yapay Zeka (YZ) 
 12. Hafta - MATLAB Bulanık Mantık (BM) ve Fuzzy Logic Toolbox Uygulaması
 13. Hafta - MATLAB Simulink üzerinde Bulanık Mantık Tabanlı Mikrodenetleyici Uygulaması (Github 60. Uygulama-> Gerçek Zamanlı Ortam Isı, Nem ve Gaz bilgileri ile [DHT11 ve MQ2 Sensörleri])
-Hafta - MATLAB Dersi Öğrenci Uygulama Projelerinin Sunumları
-Hafta - MATLAB Dersi Final Sınavı Haftası
+14. Hafta - MATLAB Dersi Öğrenci Uygulama Projelerinin Sunumları
+15. Hafta - MATLAB Dersi Final Sınavı Haftası
 
 
 
