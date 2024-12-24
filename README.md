@@ -15,3 +15,5 @@ Amaç: MATLAB programlama dilini kullanarak elektrik-elektronik mühendisliği p
 * Proje yönetimi ve sunum becerilerini geliştirmesi.    
 
 ## HAFTALIK DERS KONULARI
+
+Hafta - Elektrik-Elektronik Mühendisliği Programlama ( MATLAB ) Dersi, Temel Kavramları ve Dersin Haftalık İşleniş Aşamaları
