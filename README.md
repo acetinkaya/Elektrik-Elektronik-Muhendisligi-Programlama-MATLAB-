@@ -22,8 +22,8 @@ Amaç: MATLAB programlama dilini kullanarak elektrik-elektronik mühendisliği p
 4. Hafta - MATLAB M-dosya yapısı & MATLAB Kontrol ve Döngü Yapıları (if, if-elseif-else-end, switch-case, while,for,try...catch)
 5. Hafta - MATLAB Grafik İşlemleri (Çubuk, Pasta, 2D ve 3D grafik uygulamaları)
 6. Hafta - MATLAB Mühendislik Uygulamaları için Uygulamalı Bütünleşik Örnekler (if-else-end, switch–case, while, for, Bar graph, 2D Line, 3D Pie Chart, Veri Aktarımı)
-Hafta - MATLAB Simulink Ortamında Modellenme Çalışması
-Hafta - MATLAB Dersi Vize Sınavı Haftası
+7. Hafta - MATLAB Simulink Ortamında Modellenme Çalışması
+8. Hafta - MATLAB Dersi Vize Sınavı Haftası
 Hafta - MATLAB Uygulama Projesi Kontrol Haftası & MATLAB Simulink Modellenme Çalışması
 Hafta - MATLAB ile Mikrodenetleyici Haberleşmesi Uygulaması (Github 60. Uygulama->[DHT11 ve MQ2 Sensörleri])
 Hafta - MATLAB Dersi Quiz Uygulama Sınavı ve Yapay Zeka (YZ) 
