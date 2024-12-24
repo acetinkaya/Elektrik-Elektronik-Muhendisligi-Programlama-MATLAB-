@@ -34,5 +34,6 @@ Amaç: MATLAB programlama dilini kullanarak elektrik-elektronik mühendisliği p
 
 ## KAYNAKLAR
 
+Prof. Dr. İbrahim YÜKSEL, "Matlab ile Mühendislik Sistemlerinin Analizi ve Çözümü". Dora Basım - Yayın Dağıtım, Bursa, 2017.
 
 
