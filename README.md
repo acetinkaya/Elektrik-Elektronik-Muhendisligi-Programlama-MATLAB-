@@ -35,6 +35,7 @@ Amaç: MATLAB programlama dilini kullanarak elektrik-elektronik mühendisliği p
 ## KAYNAKLAR
 
 Prof. Dr. Cemalettin KUBAT, "Matlab Yapay Zeka ve Mühendislik Uygulamaları". Pusula Yayıncılık, İstanbul, 2013.
+Prof. Dr. Uğur ARİFOĞLU, "Matlab 9.8 ve Sayısal Uygulamaları". Alfa Basım Yayın, İstanbul, 2020.
 
 Prof. Dr. İbrahim YÜKSEL, "Matlab ile Mühendislik Sistemlerinin Analizi ve Çözümü". Dora Basım - Yayın Dağıtım, Bursa, 2017.
 Prof. Dr. İbrahim YÜKSEL, "Otomatik Kontrol - Sistem Dinemiği ve Denetimli Sistemler". Dora Basım - Yayın Dağıtım, Bursa, 2021.
