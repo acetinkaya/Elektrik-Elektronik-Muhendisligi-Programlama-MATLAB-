@@ -25,9 +25,9 @@ Amaç: MATLAB programlama dilini kullanarak elektrik-elektronik mühendisliği p
 7. Hafta - MATLAB Simulink Ortamında Modellenme Çalışması    
 8. Hafta - MATLAB Dersi Vize Sınavı Haftası   
 9. Hafta - MATLAB Uygulama Projesi Kontrol Haftası & MATLAB Simulink Modellenme Çalışması    
-10. Hafta - MATLAB ile Mikrodenetleyici Haberleşmesi Uygulaması (Github 60. Uygulama->[DHT11 ve MQ2 Sensörleri])
-11. Hafta - MATLAB Dersi Quiz Uygulama Sınavı ve Yapay Zeka (YZ) 
-12. Hafta - MATLAB Bulanık Mantık (BM) ve Fuzzy Logic Toolbox Uygulaması
+10. Hafta - MATLAB ile Mikrodenetleyici Haberleşmesi Uygulaması (Github 60. Uygulama->[DHT11 ve MQ2 Sensörleri])     
+11. Hafta - MATLAB Dersi Quiz Uygulama Sınavı ve Yapay Zeka (YZ)      
+12. Hafta - MATLAB Bulanık Mantık (BM) ve Fuzzy Logic Toolbox Uygulaması     
 13. Hafta - MATLAB Simulink üzerinde Bulanık Mantık Tabanlı Mikrodenetleyici Uygulaması (Github 60. Uygulama-> Gerçek Zamanlı Ortam Isı, Nem ve Gaz bilgileri ile [DHT11 ve MQ2 Sensörleri])
 14. Hafta - MATLAB Dersi Öğrenci Uygulama Projelerinin Sunumları
 15. Hafta - MATLAB Dersi Final Sınavı Haftası
