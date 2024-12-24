@@ -17,9 +17,9 @@ Amaç: MATLAB programlama dilini kullanarak elektrik-elektronik mühendisliği p
 ## HAFTALIK DERS KONULARI
 
 1. Hafta - Elektrik-Elektronik Mühendisliği Programlama ( MATLAB ) Dersi, Temel Kavramları ve Dersin Haftalık İşleniş Aşamaları
-Hafta - MATLAB ile Uygulama Geliştirme Ortamının Hazırlanması, Algoritma, Akış Şeması ve Veri Bilimi Kavramları
-Hafta - MATLAB Temel İşlemcileri ve İşlemleri
-Hafta - MATLAB M-dosya yapısı & MATLAB Kontrol ve Döngü Yapıları (if, if-elseif-else-end, switch-case, while,for,try...catch)
+2. Hafta - MATLAB ile Uygulama Geliştirme Ortamının Hazırlanması, Algoritma, Akış Şeması ve Veri Bilimi Kavramları
+3. Hafta - MATLAB Temel İşlemcileri ve İşlemleri
+4. Hafta - MATLAB M-dosya yapısı & MATLAB Kontrol ve Döngü Yapıları (if, if-elseif-else-end, switch-case, while,for,try...catch)
 Hafta - MATLAB Grafik İşlemleri (Çubuk, Pasta, 2D ve 3D grafik uygulamaları)
 Hafta - MATLAB Mühendislik Uygulamaları için Uygulamalı Bütünleşik Örnekler (if-else-end, switch–case, while, for, Bar graph, 2D Line, 3D Pie Chart, Veri Aktarımı)
 Hafta - MATLAB Simulink Ortamında Modellenme Çalışması
